@@ -114,7 +114,7 @@ The dataset used in this project includes:
 
 Author: Mohamed Iaaraben  
 Email: mohamed.iaaraben@etu.uae.ac.ma  
-GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub:https://github.com/Mohamediaaraben/Weather-Forecasting-RNN-GRU-LSTM/
 
 ## 🛡️ License
 
